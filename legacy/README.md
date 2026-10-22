@@ -1,0 +1,1 @@
+The original `mid.ipynb` was preserved here for provenance. It refers to an unavailable `DewarpBook.jpg` image and attempts to open OpenCV desktop windows at top level. For a usable entrypoint, see `python -m dewarp.cli` in the project README.
